@@ -6,7 +6,10 @@
 makeCacheMatrix <- function(x = matrix()) {
 
 }
-
+ test <- functio(){
+   
+   print("Test1")
+ }
 
 ## Write a short comment describing this function
 
